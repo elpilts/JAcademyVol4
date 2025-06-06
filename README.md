@@ -2,5 +2,6 @@
 
 ## theologisp
 ## Gedeon Maliogas
+## Giorgos Thedorakopoulos
 ## Spickaros
 ## mammos
